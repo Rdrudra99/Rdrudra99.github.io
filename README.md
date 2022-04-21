@@ -1,11 +1,10 @@
-# Rdrudra99.github.io
 # Portfolio - A Personal Portfolio Website
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/Rdrudra99/Rdrudra99.github.io)
 ![GitHub stars](https://img.shields.io/github/stars/Rdrudra99/Rdrudra99.github.io)
 ![GitHub forks](https://img.shields.io/github/forks/Rdrudra99/Rdrudra99.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/Rdrudra99)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Rdrudra99?style=social)](https://twitter.com/Rdrudra99)
 [![YouTube Video Views](https://img.shields.io/youtube/views/HtRTmkd5Nsg?style=social)](https://rudra1999.me)
 
 This is a completely responsive personal Portfolio website that is compatible with all mobile devices, has **Dark themes**, and is built using HTML, CSS.
@@ -40,5 +39,5 @@ If you want to contact me you can reach me at [Linkedin](https://www.linkedin.co
 ## License
 <!--- If you're not sure which open license to use see https://www.linkedin.com/in/rudra99/--->
 
-This project is Belongs To @Rudra Narayan Boitei
+This project Belongs To @Rudra Narayan Boitei
 
