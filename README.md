@@ -7,11 +7,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rdrudra99?style=social)](https://twitter.com/Rdrudra99)
 [![YouTube Video Views](https://img.shields.io/youtube/views/HtRTmkd5Nsg?style=social)](https://rudra1999.me)
 
-<div style="text-align:center">
-  <a href="https://rudra1999.me">
-    <img src ="images/Portfolio.png">
-  </a>
-</div>
+
+![blog-3](https://user-images.githubusercontent.com/95564961/164389834-5cbb3ef7-784d-4d0f-ab51-169a5e0f2fe8.png)
 
 
 
