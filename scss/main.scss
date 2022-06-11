@@ -1,15 +1,16 @@
+// root 
 :root{
   --primary-color:#ffffff;
 }
-
+// Turn On Dark Theme
 .darktheme{
   --primary-color:#262728;
 }
 
-
 body{
   background-color: var(--primary-color);
 }
+
 .card {
   transition: transform 0.2s ease;
   box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
@@ -18,18 +19,17 @@ body{
   margin-bottom: 1.5em;
   background-color: var(--primary-color);
 }
+
 .card:hover {
   transform: scale(1.1);
 }
+
 h2{
   letter-spacing: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
-.btn:hover{
-   border: 1px solid red;
-}
 a {
   text-decoration: none;
   color: inherit;

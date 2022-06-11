@@ -34,10 +34,6 @@ h2 {
   padding-bottom: 10px;
 }
 
-.btn:hover {
-  border: 1px solid red;
-}
-
 a {
   text-decoration: none;
   color: inherit;
