@@ -8,7 +8,7 @@ icon.onclick = function () {
   }
   else {
     icon.src = "images/moon.png"
-    profile.src = "images/girl2.jpg"
+    profile.src = "images/blue.jpg"
     music.src = ""
 
   }
