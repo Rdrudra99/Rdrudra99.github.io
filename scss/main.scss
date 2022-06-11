@@ -1,10 +1,33 @@
+// making code easier
+h1,
+h5,
+h6,
+p,
+a,
+.text_change
+{
+  color: var(--secondary-color);
+}
+
+.card-body,
+.card-header,
+.card-footer
+{
+  border: 1px solid var(--secondary-color);
+}
+#profile{
+  border: 2px solid var(--secondary-color);
+}
+
 // root 
 :root{
   --primary-color:#ffffff;
+  --secondary-color:#0080ff;
 }
 // Turn On Dark Theme
 .darktheme{
   --primary-color:#262728;
+  --secondary-color:#ff0000;
 }
 
 body{
