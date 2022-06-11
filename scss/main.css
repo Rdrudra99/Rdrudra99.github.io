@@ -1,3 +1,15 @@
+:root {
+  --primary-color:#ffffff;
+}
+
+.darktheme {
+  --primary-color:#262728;
+}
+
+body {
+  background-color: var(--primary-color);
+}
+
 .card {
   -webkit-transition: -webkit-transform 0.2s ease;
   transition: -webkit-transform 0.2s ease;
@@ -8,6 +20,7 @@
   border-radius: 0;
   border: 0;
   margin-bottom: 1.5em;
+  background-color: var(--primary-color);
 }
 
 .card:hover {
