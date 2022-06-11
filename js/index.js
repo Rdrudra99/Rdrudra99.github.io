@@ -4,6 +4,7 @@ icon.onclick = function () {
   if (document.body.classList.contains("darktheme")) {
     icon.src = "images/sun.png"
     profile.src = "images/red1.jpg"
+    music.src = "audio/rudra.mp3"
   }
   else {
     icon.src = "images/moon.png"
