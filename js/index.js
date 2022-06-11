@@ -8,6 +8,8 @@ icon.onclick = function () {
   }
   else {
     icon.src = "images/moon.png"
-    profile.src = "images/blue1.jpg"
+    profile.src = "images/girl2.jpg"
+    music.src = ""
+
   }
 }
