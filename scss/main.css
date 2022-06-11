@@ -20,4 +20,18 @@ h2 {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+.btn:hover {
+  border: 1px solid red;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: inherit;
+}
 /*# sourceMappingURL=main.css.map */
