@@ -13,3 +13,4 @@ icon.onclick = function () {
 
   }
 }
+// preloader
