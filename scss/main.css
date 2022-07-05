@@ -4,11 +4,15 @@
 }
 
 h1,
+h2,
 h5,
 h6,
-p,
 a,
 .text_change {
+  color: var(--secondary-color);
+}
+
+p {
   color: var(--secondary-color);
 }
 
@@ -20,6 +24,14 @@ a,
 
 #profile {
   border: 2px solid var(--secondary-color);
+}
+
+.list {
+  border: 1px solid var(--secondary-color);
+}
+
+.btn {
+  background-color: var(--secondary-color);
 }
 
 :root {
