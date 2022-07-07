@@ -26,22 +26,14 @@ p {
   border: 2px solid var(--secondary-color);
 }
 
-.list {
-  border: 1px solid var(--secondary-color);
-}
-
-.btn {
-  background-color: var(--secondary-color);
-}
-
 :root {
-  --primary-color:#ffffff;
-  --secondary-color:#0080ff;
+  --primary-color: #ffffff;
+  --secondary-color: #0080ff;
 }
 
 .darktheme {
-  --primary-color:#262728;
-  --secondary-color:#ff0000;
+  --primary-color: #262728;
+  --secondary-color: #ff0000;
 }
 
 body {
@@ -59,12 +51,6 @@ body {
 
 .card:hover {
   transform: scale(1.1);
-}
-
-#h2 {
-  letter-spacing: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
 }
 
 a {

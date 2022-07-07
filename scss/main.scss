@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 *{
   font-family: "Montserrat";
-  
 }
 // making code easier
 h1,
@@ -9,42 +8,32 @@ h2,
 h5,
 h6,
 a,
-.text_change
-{
+.text_change {
   color: var(--secondary-color);
 }
-p{
+p {
   color: var(--secondary-color);
 }
 .card-body,
 .card-header,
-.card-footer
-{
+.card-footer {
   border: 1px solid var(--secondary-color);
 }
-#profile{
+#profile {
   border: 2px solid var(--secondary-color);
 }
-.list{
-  border: 1px solid var(--secondary-color);
-  
-}
-.btn{
-  background-color: var(--secondary-color);
-}
-
-// root 
-:root{
-  --primary-color:#ffffff;
-  --secondary-color:#0080ff;
+// root
+:root {
+  --primary-color: #ffffff;
+  --secondary-color: #0080ff;
 }
 // Turn On Dark Theme
-.darktheme{
-  --primary-color:#262728;
-  --secondary-color:#ff0000;
+.darktheme {
+  --primary-color: #262728;
+  --secondary-color: #ff0000;
 }
 
-body{
+body {
   background-color: var(--primary-color);
 }
 
@@ -61,12 +50,6 @@ body{
   transform: scale(1.1);
 }
 
-#h2{
-  letter-spacing: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
 a {
   text-decoration: none;
   color: inherit;
@@ -74,5 +57,5 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: inherit
+  color: inherit;
 }
