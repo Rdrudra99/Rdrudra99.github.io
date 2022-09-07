@@ -16,12 +16,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rdrudra99?style=social)](https://twitter.com/Rdrudra99)
 [![YouTube Video Views](https://img.shields.io/youtube/views/HtRTmkd5Nsg?style=social)](https://rudra1999.me)
 
+Light Mode🚀
+![screencapture-127-0-0-1-5500-portfolio-index-html-2022-09-07-22_37_41](https://user-images.githubusercontent.com/95564961/188939387-026bcb52-35d9-4649-9d4c-06444b1e1c08.png)
+Dark Mode🚀
+![screencapture-127-0-0-1-5500-portfolio-index-html-2022-09-07-22_37_59](https://user-images.githubusercontent.com/95564961/188939408-190f46bd-5a50-4e1e-b444-5abd088a3f0a.png)
 
-![Screenshot (136)](https://user-images.githubusercontent.com/95564961/173212225-9e5b1e95-6496-4590-9c54-2a3676153e26.png)
-
-![Screenshot (137)](https://user-images.githubusercontent.com/95564961/173212288-fbbdd991-7431-4ef9-8a33-6f323637687b.png)
-
-<span> ![Screenshot (138)](https://user-images.githubusercontent.com/95564961/173212384-7748aa29-1e31-4341-a536-9da0c78d0d70.png)
 
 
 
