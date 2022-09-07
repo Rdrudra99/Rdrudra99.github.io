@@ -5,7 +5,7 @@
 
 <!-- ![logo](https://user-images.githubusercontent.com/95564961/164411517-80fe4a19-0724-4260-ac82-c7fdca9c137d.png) -->
 <h1 align="center">Hi 👋, I'm Rudra Narayan Boitei</h1>
-<h3 align="center">Whatsaapp Clone Useing HTML CSS</h3>
+<h3 align="center">PortFolio Website Useing Bootstrap and Scss</h3>
 
 <!-- # Whatsapp Clone -->
 
