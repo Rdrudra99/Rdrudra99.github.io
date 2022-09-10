@@ -14,7 +14,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Rdrudra99/whatsappclone)
 ![GitHub forks](https://img.shields.io/github/forks/Rdrudra99/whatsappclone)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rdrudra99?style=social)](https://twitter.com/Rdrudra99)
-[![YouTube Video Views](https://img.shields.io/youtube/views/HtRTmkd5Nsg?style=social)](https://rudra1999.me)
+[![YouTube Video Views](https://img.shields.io/youtube/views/HtRTmkd5Nsg?style=social)](https://Rdrudra99.github.io/portfolio)
 
 Light Mode🚀
 ![screencapture-127-0-0-1-5500-portfolio-index-html-2022-09-07-22_37_41](https://user-images.githubusercontent.com/95564961/188939387-026bcb52-35d9-4649-9d4c-06444b1e1c08.png)
